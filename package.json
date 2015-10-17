@@ -1,0 +1,26 @@
+{
+  "name": "mochalearning",
+  "version": "1.0.0",
+  "description": "learning mocha",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/revic1993/learningmocha.git"
+  },
+  "keywords": [
+    "mocha",
+    "learning"
+  ],
+  "author": "Rujul Solanki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/revic1993/learningmocha/issues"
+  },
+  "homepage": "https://github.com/revic1993/learningmocha#readme",
+  "dependencies": {
+    "mocha": "^2.3.3"
+  }
+}
